@@ -1,0 +1,11 @@
+numpy
+pandas
+openpyxl
+yfinance
+statsmodels
+plotly
+seaborn
+matplotlib
+tqdm
+mplfinance
+missingno
